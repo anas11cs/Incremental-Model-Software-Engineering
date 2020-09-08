@@ -3,8 +3,8 @@ A case study is manipulated under Incremental model(of SE)
 ==========================================================
 Case Study is Below
 ==========================================================
-Student Networking System:
--> The purpose of creating a Student Networking System is to provide an open platform where students can
+Student Networking System::
+The purpose of creating a Student Networking System is to provide an open platform where students can
 stay in touch with each other, share ideas and opinions and remain informed of the events
 happening in the institute. This could also serve as a forum to create better linkages between
 students and alumni of the institution.
