@@ -1,7 +1,7 @@
 # Incremental-Model-Software-Engineering
 A case study is manipulated under Incremental model(of SE)
 ==========================================================
-              Case Study is Below
+Case Study is Below
 ==========================================================
 Student Networking System:
 -> The purpose of creating a Student Networking System is to provide an open platform where students can
