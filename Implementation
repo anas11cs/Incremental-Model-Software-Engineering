@@ -1,0 +1,30 @@
+Student Networking System
+Each Component below goes from the cycle of (Requirement->Design->Code->Test->Customer Feedback). Numbering represents priority. Each Increment consists of iterations in which each iteration maybe dealt by one team or all iterations in that increment maybe dealt by one or multiple teams working on different phases at different time with different pace. 
+Incremental Model
+1)	Administrator Creates Account(Iteration A)
+2)	Administrator Deletes Account(Iteration B)
+Increment
+3)	User Has/Edits public profile(includes CV optional) - Can privatize it(Iteration A)
+4)	User Creates Friend List(Iteration B)
+5)	User Maintain Friend List(Iteration C)
+Increment
+6)	User search other Users(Iteration A)
+7)	User can communicate through message posts with other users(Iteration B)
+8)	User can communicate through live chat with other users(Iteration C)
+Increment
+9)	Administrator Creates Student Groups(Iteration A)
+10)	User subscribes to Groups(Iteration B)
+11)	Administrator Subscription Feature to Alert Subscribers(about update E.g.: Event Notifications or Notice and et cetera) (Iteration C)
+Increment
+12)	User Becomes Alumnus after graduation(Iteration A)
+13)	Alumnus Adds employment record(Iteration B)
+14)	Alumnus Updates employment record(Iteration C)
+15)	Alumnus Adds Qualification(Iteration D)
+16)	Alumnus Updates Qualification(Iteration E)
+Increment
+17)	Alumni Forum Post Questions(Iteration A)
+18)	Alumni Forum Respond Questions(Iteration B)
+19)	Alumni Forum Advertise Jobs(Iteration C)
+20)	Alumni Forum Project Ideas(Iteration D)
+Increment
+21)	Integration w/Social Websites
